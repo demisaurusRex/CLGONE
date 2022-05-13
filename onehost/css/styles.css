@@ -1,0 +1,36 @@
+body {
+    background-color: #89043D;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-family: 'Playfair Display', serif;
+    font-size: 90px;
+}
+h3 {
+    color: #ff0095;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #1C3041;
+    font-size: 1.5em;
+    font-weight: 100;
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+ color: #abd612;
+ font-size: 2em;   
+}
+
+
+span {font-weight: 400;
+
+}
